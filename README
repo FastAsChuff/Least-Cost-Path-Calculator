@@ -9,7 +9,7 @@ Usage:- ./pathprob2.bin m n Ex Ey [Sx Sy]
 1 <= m,n <= 32767
 0 <= Ex,Sx < m
 0 <= Ey,Sy < n
-e.g. ./pathprob2.bin 20 20 5 4 1 2
+e.g. ./pathprob2.bin 20 20 5 4 18 12
 
 Output:-
 6 7 7 3 1 1 0 5 6 4 9 2 2 4 9 8 1 5 6 9 
